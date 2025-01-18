@@ -20,3 +20,14 @@ Comparison of several models:
 - **KNNBasic** (k-Nearest Neighbors)
 - **NMF** (Non-Negative Matrix Factorization)
 
+## Evaluation
+The best model is selected based on **RMSE** (Root Mean Squared Error).
+
+## Deployment
+A Flask API is created to recommend movies in real-time.
+
+## Conclusion
+TThis project demonstrates how AI can personalize recommendations for users.
+
+
+
